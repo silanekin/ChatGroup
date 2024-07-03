@@ -1,1 +1,1 @@
-# ChatGroup
+# ChatGroup uygulama fikri 
